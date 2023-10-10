@@ -306,63 +306,7 @@
         </div>
     </section>
     <!-- fin certificaciones -->
-    <!-- inicio testimonios -->
-    <section class="section" id="testimonios">
-        <div class="container">
-            <h6 class="section-title text-center mb-0">Testimonios</h6>
-            <h6 class="section-subtitle mb-5 text-center">Opiniones de nuestros clientes sobre PIPE</h6>
-            <div class="row">
-                <div class="col-md-4 my-3 my-md-0">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="media align-items-center mb-3">
-                                <img class="mr-3" src="assets/imgs/avatar.jpg" alt="">
-                                <div class="media-body">
-                                    <h6 class="mt-1 mb-0">Julio Jaramillo, 33 años</h6>
-                                    <small class="text-muted mb-0">Negocios Internacionales</small>     
-                                </div>
-                            </div>
-                            <p class="mb-0">La plataforma ha sido de mi agrado, es muy útil y necesaria, he hecho el curso de
-                                herramientas colaborativas TICS y este me ha ayudado a ayudado a mejorar mi rendimiento en mi trabajo.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 my-3 my-md-0">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="media align-items-center mb-3">
-                                <img class="mr-3" src="assets/imgs/avatar-1.jpg" alt="">
-                                <div class="media-body">
-                                    <h6 class="mt-1 mb-0">Andrea Suarez, 24 años
-                                    </h6>
-                                    <small class="text-muted mb-0">Licenciado en salud ocupacional</small>      
-                                </div>
-                            </div>
-                            <p class="mb-0">Pipe es una excelente plataforma que me ha ayudado a mejorar en mis estudios,
-                                de hecho se me ha otorgado certificado del curso que he realizado y gracias a ello mis posibilidad de conseguir un empleo aumentaran.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 my-3 my-md-0">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="media align-items-center mb-3">
-                                <img class="mr-3" src="assets/imgs/avatar-2.jpg" alt="">
-                                <div class="media-body">
-                                    <h6 class="mt-1 mb-0">Camilo Díaz, 19 años</h6>
-                                    <small class="text-muted mb-0">Programador</small>        
-                                </div>
-                            </div>
-                            <p class="mb-0">Mi experiencia con la plataforma ha sido la mejor, ya que hice un curso de seguridad y salud en el trabajo y salí
-                                certificado, gracias a ello pude conseguir empleo fácilmente.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- fin testimonios -->
+
 
     <!-- inicio contacto -->
     <section id="contacto" class="section has-img-bg pb-0">
