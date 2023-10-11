@@ -475,7 +475,9 @@ if(isset($_SESSION['user__id'])){
                                         </a>
                                     </div>
                                 </div>
-                                fefe
+                                <div>
+                                    <h1>¡BIENVENIDO DE NUEVO, SANTIAGO!</h1>
+                                </div>
                             </div>  
                         </div>
 
