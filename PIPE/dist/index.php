@@ -38,9 +38,6 @@
                         <a class="nav-link" href="#service">Certificaciones</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#testimonios">Testimonios</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="#contacto">Contacto</a>
                     </li>
                     <li class="nav-item">
@@ -74,15 +71,13 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-md-6 pr-md-5 mb-4 mb-md-0">
-                    <h6 class="section-title mb-0">Quienes Somos</h6>
+                    <h6 class="section-title mb-0">¿Quiénes Somos?</h6>
                     <h6 class="section-subtitle mb-4">"Un emprendemiento de grandes mentes"</h6>
                     <p>Somos un grupo de estudiantes del Sena y de la Institución Educativa El Bagre,
                     especializados en la técnica de programación de software. Nos caracterizamos por tener
                     metas y ambiciones bien definidas, y por tener la firme voluntad de alcanzarlas y superarlas.
                     Sin embargo, no somos solo un grupo de jóvenes, somos PIPE.</p> 
                     <img src="assets/imgs/nosotros1.jpg" class="w-100 mt-3 shadow-sm">
-                    <img src="assets/imgs/NOSOTROS.avif" class="w-100 mt-3 shadow-sm">
-                    <img src="assets/imgs/nosotros2.jpg" class="w-100 mt-3 shadow-sm">
                 </div>
                 <div class="col-md-6 pl-md-5">
                     <div class="row">
@@ -126,7 +121,8 @@
                             <a href="https://twitter.com/Xavi_hm16"> <img src="assets/imgs/twitter.png" width="20px"></a></h6>
                             <p>Soy un joven de 17 años que reside en el municipio de El Bagre, Antioquia, actualmente
                             me encuentro estudiando programación de software en el SENA y trabajando arduamente
-                            en el proyecto PIPE. Me gusta mucho la programación y los animales.</p>
+                            en el proyecto PIPE. Me gusta mucho la programación y los animales. <br>
+                            "Sigue tu pasión y la vida te recompensará"</p>
                             <h6><b>Keyla Vergara Roqueme - Diseñador UI</b>
                             <a href="https://www.instagram.com/keyla_roqueme/"> <img src="assets/imgs/instagram.png" width="20px"></a>      
                             <a href="https://www.facebook.com/keyla.vergara.902"> <img src="assets/imgs/facebook.png" width="20px"></a>
@@ -159,9 +155,6 @@
                 <a href="#" data-filter=".advertising">
                     Inducciones
                 </a>
-                <a href="#" data-filter=".branding">
-                    Office
-                </a>
                 <a href="#" data-filter=".web">
                     Avanzados
                 </a>
@@ -169,9 +162,9 @@
             <div class="portfolio-container"> 
                 <div class="col-md-6 col-lg-4 advertising new">
                     <div class="portfolio-item">
-                        <img src="assets/imgs/web-1.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
+                        <img src="assets/imgs/induccionlaboral.png" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
                         <div class="content-holder">
-                            <a class="img-popup" href="assets/imgs/web-1.jpg"></a>
+                            <a class="img-popup" href="assets/imgs/induccionlaboral.png"></a>
                             <div class="text-holder">
                                 <h6 class="title">Inducción a la etapa laboral</h6>
                                 <p class="subtitle">+INFO</p>
@@ -181,9 +174,9 @@
                 </div>
                 <div class="col-md-6 col-lg-4 web new">
                     <div class="portfolio-item">
-                        <img src="assets/imgs/web-2.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
+                        <img src="assets/imgs/sst.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
                         <div class="content-holder">
-                            <a class="img-popup" href="assets/imgs/web-2.jpg"></a>
+                            <a class="img-popup" href="assets/imgs/sst.jpg"></a>
                             <div class="text-holder">
                                 <h6 class="title">Seguridad y salud en el trabajo</h6>
                                 <p class="subtitle">+INFO</p>
@@ -193,24 +186,24 @@
                 </div>
                 <div class="col-md-6 col-lg-4 advertising new">
                     <div class="portfolio-item">
-                        <img src="assets/imgs/advertising-2.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">                         
+                        <img src="assets/imgs/ambientesavanzados.png" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">                         
                         <div class="content-holder">
-                            <a class="img-popup" href="assets/imgs/advertising-2.jpg"></a>
+                            <a class="img-popup" href="assets/imgs/ambientesavanzados.png"></a>
                             <div class="text-holder">
                                 <h6 class="title">Inducción a ambientes especializados</h6>
-                                <p class="subtitle">+INFO</p>
+                                <p class="subtitle">Muy pronto...</p>
                             </div>
                         </div>    
                     </div>              
                 </div> 
                 <div class="col-md-6 col-lg-4 web new">
                     <div class="portfolio-item">
-                        <img src="assets/imgs/web-4.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
+                        <img src="assets/imgs/habilidadesblandas.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
                         <div class="content-holder">
-                            <a class="img-popup" href="assets/imgs/web-4.jpg"></a>
+                            <a class="img-popup" href="assets/imgs/habilidadesblandas.jpg"></a>
                             <div class="text-holder">
                                 <h6 class="title">Competencias blandas</h6>
-                                <p class="subtitle">+INFO</p>
+                                <p class="subtitle">Muy pronto...</p>
                             </div>
                         </div>
                     </div>                                                     
@@ -218,24 +211,24 @@
 
                 <div class="col-md-6 col-lg-4 web new"> 
                     <div class="portfolio-item">
-                        <img src="assets/imgs/advertising-1.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">                               
+                        <img src="assets/imgs/TICS.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">                               
                         <div class="content-holder">
-                            <a class="img-popup" href="assets/imgs/advertising-1.jpg"></a>
+                            <a class="img-popup" href="assets/imgs/TICS.jpg"></a>
                             <div class="text-holder">
                                 <h6 class="title">Herramientas colaborativas TICS</h6>
-                                <p class="subtitle">+INFO</p>
+                                <p class="subtitle">Muy pronto...</p>
                             </div>
                         </div>
                     </div>                                                       
                 </div> 
                 <div class="col-md-6 col-lg-4 web new">
                     <div class="portfolio-item">
-                        <img src="assets/imgs/web-3.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">  
-                       <div class="content-holder">
-                            <a class="img-popup" href="assets/imgs/web-3.jpg"></a>
+                        <img src="assets/imgs/investigacion.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">  
+                        <div class="content-holder">
+                            <a class="img-popup" href="assets/imgs/investigacion.jpg"></a>
                             <div class="text-holder">
                                 <h6 class="title">Investigación y proyecto laboral</h6>
-                                <p class="subtitle">+INFO</p>
+                                <p class="subtitle">Muy pronto...</p>
                             </div>
                         </div>
                     </div>                                                     
@@ -244,6 +237,7 @@
         </div>            
     </section>
     <!--Fin nuestros cursos-->
+
     <!-- Inicio certificaciones -->
     <section  id="service" class="section pt-0">
         <div class="container">
@@ -256,15 +250,12 @@
                         <div class="card-body">
                             <small class="text-primary font-weight-bold">01</small>
                             <h5 class="card-title mt-3"> INDUCCIÓN A LA ETAPA LABORAL <h5>
-                            <p class="mb-0">Consiste en orientar a un nuevo
-                            funcionario en su lugar o puesto de trabajo,la certificación de la formación
-                            recibida durante la inducción a la etapalaboral puede aumentar la confianza y
-                            el perfil profesional de los empleados, así como mejorar sus oportunidades de
-                            desarrollo y crecimiento dentro de laempresa. Para las empresas, la
-                            certificación puede ser una forma deasegurarse de que los nuevos
-                            trabajadores están preparados para desempeñarsus funciones de manera
-                            adecuada y eficiente, además de servir comouna herramienta para medir el
-                            impacto y la eficacia del programa deinducción.</p>
+                            <p class="mb-0">La inducción laboral orienta al nuevo empleado en su puesto de trabajo.
+                                La certificación de esta formación puede aumentar la confianza y perfil profesional
+                                del trabajador, así como sus oportunidades de desarrollo en la empresa. Para las 
+                                empresas, la certificación permite asegurar que el nuevo personal está preparado 
+                                para desempeñar sus funciones eficientemente y medir el impacto del programa de 
+                                inducción.</p>
                         </div>
                     </div>
                 </div>
@@ -273,13 +264,10 @@
                         <div class="card-body">
                             <small class="text-primary font-weight-bold">02</small>
                             <h5 class="card-title mt-3">SEGURIDAD Y  SALUD EN EL TRABAJO<h5>
-                            <p class="mb-0">la certificación de
-                            seguridad y salud en el trabajo tiene varios beneficios para las
-                            organizaciones, como garantizar la implementación de un SGSST efectivo y
-                            confiable, ayudar a cumplir con los requisitos legales y reglamentarios,
-                            mejorar la reputación y la competitividad en el mercado. No obstante, también
-                            se mencionan algunos desafíos, como lainversión financiera y el compromiso
-                            de la dirección y los trabajadores.</p>
+                            <p class="mb-0">La certificación en seguridad y salud laboral beneficia a las 
+                                organizaciones al garantizar la implementación de un sistema efectivo y confiable, 
+                                cumplir requisitos legales, mejorar la reputación y competitividad. Los desafíos 
+                                incluyen la inversión financiera y el compromiso de dirección y trabajadores.</p>
                         </div>
                     </div>
                 </div>
@@ -288,17 +276,11 @@
                         <div class="card-body">
                             <small class="text-primary font-weight-bold">03</small>
                             <h5 class="card-title mt-3">HERRAMIENTAS COLABORATIVAS TICS<h5>
-                            <p class="mb-0">Las herramientas
-                            colaborativas como los documentos de Google, las presentaciones de Google
-                            y las hojas de cálculo para mejorar la colaboración en el ámbito laboral y
-                            lograr una mayor eficiencia en la gestión de la información. Se destaca la
-                            capacidad de estas herramientas para permitir la edición y revisión en tiempo
-                            real por varios usuarios, y la función de historial de revisiones para realizar un
-                            seguimiento de los cambios realizados. La certificación de estas herramientas
-                            puede ser beneficiosa para las organizaciones, pero también requiere de
-                            capacitación y políticas de seguridad y privacidad de la información. Estas
-                            herramientas son una solución práctica y económica para la colaboración en
-                            el trabajo, pero es importante abordar los desafíos de su implementación.</p>
+                            <p class="mb-0">Las herramientas colaborativas de Google como documentos y hojas de 
+                                cálculo facilitan la edición simultánea y el seguimiento de cambios, mejorando 
+                                la colaboración y eficiencia en el trabajo. Su adopción conlleva desafíos como la 
+                                capacitación de usuarios y la seguridad de información, pero permite formas de 
+                                trabajo más ágiles si se dan cambios en los procesos y cultura organizacional.</p>
                         </div>
                     </div>
                 </div>              
